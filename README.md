@@ -1,4 +1,4 @@
-- 💞️  Python 3+  (& little about C/C++, ASM)
+- 💞️  Python 3+  (there is a little knowledge C/C++, ASM)
 - 👀 Keras + глубокое обучение Pytorch, Tensorflow
 - 
 - 🌱 Machine Learning: 

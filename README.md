@@ -2,7 +2,7 @@
 - 👀 Keras + глубокое обучение Pytorch, Tensorflow
 - 
 - 🌱 Machine Learning: 
-- CNN, NLP, КЛАССИФИКАЦИЯ (бинарная и многоклассовая), Autoencoder (поиск аномалий), ObjectDetection, ReinforcementLearning.
+- CNN, NLP, КЛАССИФИКАЦИЯ (бинарная и многоклассовая), Autoencoder (поиск аномалий), ObjectDetection, CV, ReinforcementLearning.
 - 
 - 📫 Python СТЕК:
 - Numpy, Pandas, Matplotlib, Seaborn

@@ -19,6 +19,7 @@ Machine Learning и Computer Vision разработчик. Создаю исс�
 | [SmartHome](https://github.com/AlekseyVB/SmartHome) | классификация голосовых команд для сценариев умного дома с Librosa и многовходовой Conv1D-моделью |
 | [karate_pose-estimation](https://github.com/AlekseyVB/karate_pose-estimation) | распознавание движений каратэномичи по MediaPipe landmarks и углам тела |
 | [virginia](https://github.com/AlekseyVB/virginia) | GUI-разметчик, экспорт YOLO и U-Net-сегментация ковров на видео |
+| [cut-video-to-frames](https://github.com/AlekseyVB/cut-video-to-frames) | утилита для пакетного извлечения кадров из видео; версия 1.3, тесты и CI |
 | [more_net](https://github.com/AlekseyVB/more_net) | эксперименты FairMOT с YOLO и CSPDarknet-53 для multi-object tracking |
 | [project_test1](https://github.com/AlekseyVB/project_test1) | каталог учебных экспериментов по ML, NLP, генеративным моделям и анализу данных |
 
